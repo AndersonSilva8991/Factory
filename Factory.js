@@ -1,3 +1,5 @@
+// Factory
+
 function createstory(title, author) {
     const story = {
         storyTitle: title,
